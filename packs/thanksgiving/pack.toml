@@ -1,0 +1,11 @@
+title = "Thanksgiving"
+author = "Kyle James Walker"
+game = "v0.9.0"
+summary = "Flocks of undead turkeys and a dead pilgrim at the head of every horde."
+changes = [
+  "Turkeys join the night: fast, frail and nearly every new arrival.",
+  "The dead Pilgrim leads the hordes and rises as dawn's Harvester.",
+  "Kids are rarer, and horde leaders have more than twice the health.",
+  "Hearts drop as turkey legs.",
+  "Play as the Pilgrim, starting with a knife and a shotgun.",
+]
